@@ -1,2 +1,6 @@
 01 create the file example.txt
+<<<<<<< HEAD
 03 add something from client
+=======
+02 add something from GitHub
+>>>>>>> origin/master
